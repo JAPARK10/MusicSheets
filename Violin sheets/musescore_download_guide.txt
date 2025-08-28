@@ -1,0 +1,4 @@
+1.) .svgs von musescore downloaden.
+2.) in Inkscape öffnen
+3.) Speichern unter... PDF
+4.) Fertig
